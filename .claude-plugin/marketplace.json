@@ -1,0 +1,18 @@
+{
+  "name": "skysepehru",
+  "owner": {
+    "name": "skysepehru"
+  },
+  "description": "skysepehru's Claude Code plugins for Unity development.",
+  "plugins": [
+    {
+      "name": "unity-claude-skills",
+      "source": "./",
+      "description": "Convention skills for Unity development with Claude Code — coding, architecture, performance, folders, Zenject, UGUI, MCP, and testing.",
+      "version": "0.1.0",
+      "author": {
+        "name": "skysepehru"
+      }
+    }
+  ]
+}

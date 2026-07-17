@@ -1,0 +1,12 @@
+{
+  "name": "unity-claude-skills",
+  "version": "0.1.0",
+  "description": "Convention skills for Unity development with Claude Code — coding, architecture, performance, folders, Zenject, UGUI, MCP, and testing.",
+  "author": {
+    "name": "skysepehru"
+  },
+  "homepage": "https://github.com/skysepehru/unity-claude-skills",
+  "repository": "https://github.com/skysepehru/unity-claude-skills",
+  "license": "MIT",
+  "keywords": ["unity", "gamedev", "zenject", "ugui", "conventions", "skills"]
+}
