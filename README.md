@@ -43,4 +43,4 @@ To update later:
 
 ## License
 
-Released under the [MIT License](LICENSE).
+[MIT](LICENSE)
